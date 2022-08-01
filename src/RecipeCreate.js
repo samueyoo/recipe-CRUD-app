@@ -1,11 +1,8 @@
 import React from "react";
 
 function RecipeCreate({ recipes, formData, handleFormChange, handleCreate }) { //Adds new recipe object to recipes state
-  // TODO: When the form is submitted, a new recipe should be created, and the form contents cleared.
-  // TODO: Add the required input and textarea form elements.
-  // TODO: Add the required submit and change handlers
 
-  // const checkFormState = (e) => {
+  // const checkFormState = (e) => { //Debugging tool
   //   e.preventDefault();
   //   console.log(formData);
   // } Button included for debugging purposes
